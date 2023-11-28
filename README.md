@@ -3,6 +3,6 @@
 
 #  what dedın gulum??
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=c-sharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white)
-#  GitHub Stats:
+# ıstatıkler
 <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=ravzasanchez&show_icons=true&theme=react&hide_border=true&bg_color=0D1117">
 <img align="left" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=ravzasanchez&theme=black-ice&hide_border=true&stroke=0000&background=0D1117">
