@@ -1,4 +1,4 @@
-# <img width="50%" src= "https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4a76fc&background=FF6AAA00&vCenter=false&multiline=true&width=435&height=30&lines=Hi+there%2C+I'am+ Sanchez">
+# <img width="50%" src= "https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4a76fc&background=FF6AAA00&vCenter=false&multiline=true&width=435&height=30&lines=ne+shanchez%2C+mi??+ ">
 [![](https://visitcount.itsvg.in/api?id=ravzasanchez&icon=0&color=1)](https://visitcount.itsvg.in)
 
 ##  Socials:
