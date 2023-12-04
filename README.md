@@ -1,4 +1,4 @@
-# <img width="50%" src= "https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4a76fc&background=FF6AAA00&vCenter=false&multiline=true&width=435&height=30&lines=Neyğ+Sanchez%2C+Mii??+ ">
+# <img width="50%" src= "https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4a76fc&background=FF6AAA00&vCenter=false&multiline=true&width=435&height=30&lines=+sanchez%2C+mi?+ ">
 <img width="50%" align="right" src="https://count.getloli.com/get/@:ravzasanchez?theme=rule34">
 
 # languages
