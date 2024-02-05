@@ -2,7 +2,7 @@
  
 
 
-<img width="50%" align="right" src="https://count.getloli.com/get/@:evely1nn?theme=rule34">
+<img width="50%" align="right" src="https://count.getloli.com/get/@:ravzasanchez?theme=rule34">
 
 <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=evely1nn&show_icons=true&theme=react&hide_border=true&bg_color=0D1117">
 
