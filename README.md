@@ -1,5 +1,5 @@
 
- <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">  <img width="50%" src= "https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7b3ac9&background=FF6AAA00&vCenter=false&multiline=true&width=435&height=30&lines=evelynno !">
+ <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">  <img width="50%" src= "https://readme-typing-svg.demolab.com?font=Fira+Code&pause=062e96&color=104e8b&background=FF6AAA00&vCenter=false&multiline=true&width=435&height=30&lines=evelynno !">
  
 
 
