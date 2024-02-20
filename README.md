@@ -16,14 +16,6 @@
 
 
 
-<div align="center">
-<img src="https://i.imgur.com/tzYKRfd.gif">
-</div>
-<hr>
-</div>
-</div>
-    </center>
-</bodyy>
 
-  <img width="100%" align="center" src="https://media.tenor.com/pypLAHr1-8MAAAAM/reyna-reyna-valorant.gif" alt="background">
+  <img width="100%" align="center" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/34547bf5-2e28-49c0-89ce-83eb7756025f/dajz188-a598d484-6a1d-4efb-8626-e35289bf7e72.jpg" alt="background">
 
