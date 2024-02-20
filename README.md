@@ -24,6 +24,6 @@
 </div>
     </center>
 </bodyy>
-		
-https://media.tenor.com/pypLAHr1-8MAAAAM/reyna-reyna-valorant.gif
-https://media.tenor.com/pypLAHr1-8MAAAAM/reyna-reyna-valorant.gif
+
+  <img width="100%" align="center" src="https://media.tenor.com/pypLAHr1-8MAAAAM/reyna-reyna-valorant.gif" alt="background">
+
