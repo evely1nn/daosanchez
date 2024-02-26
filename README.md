@@ -17,5 +17,6 @@
 
 
 
-  <img width="100%" align="center" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/34547bf5-2e28-49c0-89ce-83eb7756025f/dajz188-a598d484-6a1d-4efb-8626-e35289bf7e72.jpg" alt="background">
+ <img width="100%" align="center" src="https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt1168636c3a93b9e9/5f52d5af95701623b75e6d1d/01_Banner_State_Of_Skins_Kindred_Splash.jpg" alt="background">
+
 
