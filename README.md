@@ -17,6 +17,5 @@
 
 
 
- <img width="100%" align="center" src="https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt1168636c3a93b9e9/5f52d5af95701623b75e6d1d/01_Banner_State_Of_Skins_Kindred_Splash.jpg" alt="background">
 
-
+ <img width="100%" align="center" src="https://forum.donanimarsivi.com/attachments/header-png.416144/" alt="background">
