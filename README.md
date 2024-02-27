@@ -19,4 +19,4 @@
 
 
 
- <img width="100%" align="center" src="https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt1168636c3a93b9e9/5f52d5af95701623b75e6d1d/01_Banner_State_Of_Skins_Kindred_Splash.jpg" alt="background">
+ <img width="100%" align="center" src="https://cdn.discordapp.com/attachments/1190000165281615904/1211950764759453726/IMG_4621.jpg?ex=65f0101b&is=65dd9b1b&hm=344d8f81e7a30fffbd97436a94fdbbe4f268915ea23a665a26f908d8fbf3ac2f&" alt="background">
