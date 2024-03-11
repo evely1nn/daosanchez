@@ -23,10 +23,3 @@
 
  <img width="100%" align="center" src="https://static.vecteezy.com/system/resources/previews/017/073/533/non_2x/elegant-blue-spider-web-background-banner-with-glitter-light-vector.jpg" alt="background">
 
-https://pin.it/2bK837ibU
-https://pin.it/fmOpGVMXt
-
-
-https://pin.it/1N3uhfQDj
-https://pin.it/6BTM4UJtk
-
