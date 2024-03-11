@@ -21,5 +21,7 @@
 
 
 
- <img width="100%" align="center" src="https://static.vecteezy.com/system/resources/previews/017/073/533/non_2x/elegant-blue-spider-web-background-banner-with-glitter-light-vector.jpg" alt="background">
 
+
+
+ <img width="100%" align="center" src="https://www.rollingstone.com/wp-content/uploads/2023/06/jennie-ruby-jane-abel-the-weeknd-tesfaye.jpg?w=1581&h=1054&crop=1" alt="background">
