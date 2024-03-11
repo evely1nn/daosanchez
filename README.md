@@ -17,6 +17,7 @@
 
 
 
+ <img width="100%" align="center" src="https://www.technopat.net/sosyal/eklenti/desktop-wallpaper-ps4-banners-anime-girl-jpg.1802933/" alt="background">
 
 
 
@@ -24,4 +25,3 @@
 
 
 
- <img width="100%" align="center" src="https://www.rollingstone.com/wp-content/uploads/2023/06/jennie-ruby-jane-abel-the-weeknd-tesfaye.jpg?w=1581&h=1054&crop=1" alt="background">
