@@ -5,7 +5,7 @@
 
 <img width="50%" align="right" src="https://count.getloli.com/get/@:ravzasanchez?theme=rule34">
 
-<img align="left" width="40%" src="https://github-readme-stats.vercel.app/api?username=evelynn&show_icons=true&theme=midnight-red&hide_border=true&bg_color=0D1117">
+![evely1nn GitHub stats](https://github-readme-stats.vercel.app/api/?username=evelynn&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 
 
@@ -22,3 +22,17 @@
  
 
  <img width="100%" align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGBnsenBgze_PgeWxVZWwWK6wf1uxujToHGT0qQfEg-JZbfzPswwFboh1EMVdHy7v9HW0&usqp=CAU" alt="background">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
