@@ -2,12 +2,12 @@
  <img width="70%" src= "https://readme-typing-svg.demolab.com?font=Fira+Code&pause=062e96&color=800000&background=FF6AAA00&vCenter=false&multiline=true&width=435&height=30&lines=evelynno💥">
  
 
+<img width="41%" align="right" src="https://count.getloli.com/get/@:ravzasanchez?theme=rule34">
 
 
 
 ![evely1nn GitHub stats](https://github-readme-stats.vercel.app/api/?username=evelynn&show_icons=false&title_color=800000&icon_color=79ff97&text_color=9f9f9f&bg_color=000)
 
-<img width="41%" align="right" src="https://count.getloli.com/get/@:ravzasanchez?theme=rule34">
 
 
 </div>
