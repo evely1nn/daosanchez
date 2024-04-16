@@ -13,6 +13,7 @@
 <div>
 
 
+<img width="100%" align="center" src="https://i.superhaber.com/storage/files/images/2024/01/12/hakan-yagar-testo-taylan-mq3y.jpg" alt="background">
 
 
 
@@ -20,4 +21,3 @@
 
 
 
-<img width="100%" align="center" src="https://www.icegif.com/wp-content/uploads/2021/12/icegif-255.gif" alt="background">
