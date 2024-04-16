@@ -1,5 +1,5 @@
 
- <img width="70%" src= "https://readme-typing-svg.demolab.com?font=Fira+Code&pause=062e96&color=1b8bb4&background=FF6AAA00&vCenter=false&multiline=true&width=435&height=30&lines=sanchez">
+ <img width="70%" src= "https://readme-typing-svg.demolab.com?font=Fira+Code&pause=062e96&color=1b8bb4&background=FF6AAA00&vCenter=false&multiline=true&width=435&height=30&lines=yeağer">
  
 <img width="41%" align="right" src="https://count.getloli.com/get/@:ravzasanchez?theme=rule34">
 
