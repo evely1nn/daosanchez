@@ -1,4 +1,4 @@
- # bugranın icinde biriken ofke tekrar acıga cıkıyo
+ # neden bu kadar ciddisin
  <img width="70%" src= "https://readme-typing-svg.demolab.com?font=Fira+Code&pause=062e96&color=1b8bb4&background=FF6AAA00&vCenter=false&multiline=true&width=435&height=30&lines=zorba">
 
 <img width="41%" align="right" src="https://count.getloli.com/get/@:ravzasanchez?theme=rule34">
@@ -14,9 +14,5 @@
 
 
 
-
-
-
-<img width="100%" align="center" src="https://i.makeagif.com/media/6-25-2018/J6bDZB.gif" alt="background">
-
+<img width="100%" align="center" src="https://www.icegif.com/wp-content/uploads/2021/12/icegif-255.gif" alt="background">
 
