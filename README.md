@@ -1,4 +1,4 @@
-
+# bende ABİNE vERİRDİM
 
 
 <img width="41%" align="right" src="https://count.getloli.com/get/@:ravzasanchez?theme=rule34">
