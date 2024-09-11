@@ -11,9 +11,14 @@
 <div>
   
 #
+
+<a href="https://open.spotify.com/user/31lnn6iv3gugv4kpc2mjusnwv7cq"><img src="https://spotify-now-playing-carol42.vercel.app/api/spotify" alt=" Spotify" ></a>
+
+
 <img width="10000%" align="center" src="https://cdn.pfps.gg/banners/4173-girl-with-a-sword-banner.gif" alt="background">
 
 
-#
-<a href="https://open.spotify.com/user/31lnn6iv3gugv4kpc2mjusnwv7cq"><img src="https://spotify-now-playing-carol42.vercel.app/api/spotify" alt=" Spotify" ></a>
 
+
+#
+<img width="30%" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="background"><img width="30%" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="background"><img width="30%" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="background">
