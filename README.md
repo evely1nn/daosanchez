@@ -31,4 +31,6 @@
 
 <img width="25%" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="background">
 
+<img width="25%" align="center" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="background">
+
 #
