@@ -15,9 +15,11 @@
 <a href="https://open.spotify.com/user/31lnn6iv3gugv4kpc2mjusnwv7cq"><img src="https://spotify-now-playing-carol42.vercel.app/api/spotify" alt=" Spotify" ></a>
 
 
-<img width="50%" align="center" src="https://cdn.pfps.gg/banners/4173-girl-with-a-sword-banner.gif" alt="background">
+<img width="50%" align="center" src="https://i.pinimg.com/550x/c1/0a/fd/c10afd4b6a3bfd8b29846e5aa5354309.jpg" alt="background">
 
 
+
+<img width="50%" align="center" src="https://i.pinimg.com/originals/46/02/45/460245721bfd870a8d71d97313cbbf93.gif" alt="background">
 
 
 #
