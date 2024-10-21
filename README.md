@@ -1,12 +1,14 @@
 #          
+   <img width="15%" src="https://komarev.com/ghpvc/?username=ravzasanchez&color=070000">
+      <!--<br><img src="https://count.getloli.com/get/@:mshelovee?theme=asoul"-->
+      <br><br> 
+    </samp>
+</p>
+
+
 ![evely1nn GitHub stats](https://github-readme-stats.vercel.app/api/?username=lynx4r&show_icons=true&title_color=8b4726_color=8b4726&text_color=8b4726&bg_color=0000)
-<img width="40%" align="right" src="https://count.getloli.com/get/@:ravzasanchez?theme=rule34">
 
 
-
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=ravzasanchez&label=Profile%30views&color=0e75b6&style=flat" alt="ravzsanchez" /> </p>
-
-</div>
 <br>
 <div>
   
